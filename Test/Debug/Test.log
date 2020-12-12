@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\docli\Downloads\ParseTo\parser\parser\student.cpp(81): warning C4715: Parse: значение возвращается не при всех путях выполнения
+  Test.vcxproj -> C:\Users\docli\Downloads\ParseTo\parser\Debug\Test.exe
